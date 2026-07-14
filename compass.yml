@@ -1,0 +1,17 @@
+name: CowswapAUDD
+id: ari:cloud:compass:033435a5-1581-4af5-88e2-30c6172c6ab6:component/7b4e73c7-5fa7-4e44-85a5-26705e0ff5e0/b023452a-4e5f-4cab-bae2-3bd273f5abbd
+description: null
+configVersion: 1
+typeId: APPLICATION
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/AUDD-Digital/CowswapAUDD
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
